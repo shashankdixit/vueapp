@@ -1,0 +1,5 @@
+Auth:
+  project_token: 42c24129-9545-4479-ac61-3c12d72e7c62
+  customer_token: 5701949f-4512-4189-a1df-46783526dac9
+SCA:
+  language: python
